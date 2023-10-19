@@ -14,7 +14,7 @@ This open-source music player project is designed to enhance and customize users
 
 ## Deploy
 
-`www.github.com`
+https://emrhdmn.github.io/music-player-main/
 
 - Clone the project to your local machine: 
 - Open the project in a modern web browser.
